@@ -2,7 +2,7 @@
 
 Sentiment analysis is a powerful tool in the field of natural language processing (NLP) that allows us to automatically identify and extract subjective information from text. In this tutorial, we will go over how to perform sentiment analysis in Python using the TextBlob library.[1]
 
-Con el fin de obtener los sentimientos al analizar los textos de los tweets, primero definimos una serie de funciones auxiliares:
+Con el fin de obtener los sentimientos al analizar los textos de los tweets, primero definimos una serie de [funciones auxiliares]():
 
 a) Funciones para interactuar con la base de datos:
 
